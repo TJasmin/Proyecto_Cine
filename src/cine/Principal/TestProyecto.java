@@ -31,6 +31,10 @@ public class TestProyecto {
         Cine.registrar(new Empleado("Juan", "Veliz", 23, 1721255386, Sueldo.ADMINISTRACION.getSueldo(), "JuanCarlos", "juanca"));
         Cine.registrar(new Empleado("Julio", "Cortazar", 30, 1987654321, Sueldo.ADMINISTRACION.getSueldo(), "XXX", "incognita"));
         Cine.registrar(new Empleado("Roberto", "Cuero", 69, 1234567890, Sueldo.ADMINISTRACION.getSueldo(), "IselaCreyo", "isela"));
+        
+        //Nuevo empleado
+        Cine.registrar(new Empleado("Tania", "Rea", 25, 1726475961, Sueldo.ADMINISTRACION.getSueldo(), "Tany", "abc"));
+        
         //Clientes
         Cine.registrar(new Cliente("Elena", "Perez", 1726745715, 985018531, Socio.ES_SOCIO.isSocio()));
         Cine.registrar(new Cliente("Laura", "Torres", 1789654123, 987456321, Socio.NO_ES_SOCIO.isSocio()));
