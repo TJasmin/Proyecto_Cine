@@ -32,7 +32,7 @@ public class TestProyecto {
         Cine.registrar(new Empleado("Julio", "Cortazar", 30, 1987654321, Sueldo.ADMINISTRACION.getSueldo(), "XXX", "incognita"));
         Cine.registrar(new Empleado("Roberto", "Cuero", 69, 1234567890, Sueldo.ADMINISTRACION.getSueldo(), "IselaCreyo", "isela"));
         
-        //Nuevo empleado
+        //Nuevo empleado registrado
         Cine.registrar(new Empleado("Tania", "Rea", 25, 1726475961, Sueldo.ADMINISTRACION.getSueldo(), "Tany", "abc"));
         
         //Clientes
