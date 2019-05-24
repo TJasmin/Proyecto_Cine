@@ -1,0 +1,4 @@
+	Nombre: a x
+ 	Identificacion: 1726745715
+	Teléfono: 985018534
+	El Cliente es socio: true

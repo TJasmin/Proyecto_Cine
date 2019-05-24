@@ -1,0 +1,4 @@
+Pelicula: malefica
+Numero de sala: 2
+Numero de asiento: 6
+Hora: 11:00

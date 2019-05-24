@@ -1,0 +1,6 @@
+Nombre: malefica
+Año: 2014
+Actor: qwe
+Director:qwe
+Productor: asd
+Dusponibilidad: true

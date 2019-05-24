@@ -1,0 +1,5 @@
+Codigo: 481
+Nombre: Cola
+Tamaño: grande
+Costo: 12.0
+Cantidad: 3

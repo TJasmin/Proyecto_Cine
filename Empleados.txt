@@ -1,0 +1,5 @@
+
+	Nombre: andres veliz
+ 	Identificacion: 1726030081
+	Edad: 19 años
+	Sueldo Diario: 40.0
